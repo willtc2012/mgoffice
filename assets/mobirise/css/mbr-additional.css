@@ -932,72 +932,143 @@ blockquote {
   text-align: left;
 }
 
-#menu-1n .hide-buttons .nav-btn {
+#menu-2h .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-1n .navbar-caption {
+#menu-2h .navbar-caption {
   color: #ffffff;
   font-size: 24px;
 }
-#menu-1n .navbar-toggler {
+#menu-2h .navbar-toggler {
   color: #ffffff;
 }
-#menu-1n .close-icon::before,
-#menu-1n .close-icon::after {
+#menu-2h .close-icon::before,
+#menu-2h .close-icon::after {
   background-color: #ffffff;
 }
-#menu-1n .link,
-#menu-1n .dropdown-item {
+#menu-2h .link,
+#menu-2h .dropdown-item {
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
-#menu-1n .link {
+#menu-2h .link {
   font-size: 0.8rem;
 }
-#menu-1n .dropdown-item,
-#menu-1n .nav-dropdown-sm .link {
+#menu-2h .dropdown-item,
+#menu-2h .nav-dropdown-sm .link {
   font-size: 0.866rem;
 }
-#menu-1n .link:hover,
-#menu-1n .link:focus {
+#menu-2h .link:hover,
+#menu-2h .link:focus {
   color: #e67e22;
 }
-#menu-1n .dropdown-item:hover::before,
-#menu-1n .dropdown-item:focus::before {
+#menu-2h .dropdown-item:hover::before,
+#menu-2h .dropdown-item:focus::before {
   background: #e67e22;
 }
-#menu-1n .dropdown-item:hover,
-#menu-1n .dropdown-item:focus {
+#menu-2h .dropdown-item:hover,
+#menu-2h .dropdown-item:focus {
   color: #ffffff;
 }
-#menu-1n .link[aria-expanded="true"],
-#menu-1n .dropdown-menu {
+#menu-2h .link[aria-expanded="true"],
+#menu-2h .dropdown-menu {
   background: #e13d2b;
 }
-#menu-1n .nav-dropdown-sm .link:focus,
-#menu-1n .nav-dropdown-sm .link:hover,
-#menu-1n .nav-dropdown-sm .dropdown-item:focus,
-#menu-1n .nav-dropdown-sm .dropdown-item:hover {
+#menu-2h .nav-dropdown-sm .link:focus,
+#menu-2h .nav-dropdown-sm .link:hover,
+#menu-2h .nav-dropdown-sm .dropdown-item:focus,
+#menu-2h .nav-dropdown-sm .dropdown-item:hover {
   background: #e55a4b!important;
 }
-#menu-1n .navbar,
-#menu-1n .nav-dropdown-sm,
-#menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1n .nav-dropdown-sm .dropdown-menu {
+#menu-2h .navbar,
+#menu-2h .nav-dropdown-sm,
+#menu-2h .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2h .nav-dropdown-sm .dropdown-menu {
   background: #e76658;
 }
-#menu-1n .bg-color.transparent .link {
+#menu-2h .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
 }
-#menu-1n .bg-color.transparent.opened .link {
+#menu-2h .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu-1n .bg-color.transparent.opened .link:hover,
-#menu-1n .bg-color.transparent.opened .link:focus {
+#menu-2h .bg-color.transparent.opened .link:hover,
+#menu-2h .bg-color.transparent.opened .link:focus {
   color: #e67e22;
 }
-#menu-1n .link[aria-expanded="true"],
-#menu-1n .dropdown-item[aria-expanded="true"] {
+#menu-2h .link[aria-expanded="true"],
+#menu-2h .dropdown-item[aria-expanded="true"] {
   color: #e67e22!important;
+}
+#features13-3h .mbr-section-text {
+  color: #000000;
+  font-size: 20px;
+}
+#features13-3h .mbr-section-title {
+  color: #000000;
+  font-size: 36px;
+}
+#features13-3h .mbr-section-subtitle {
+  color: #000000;
+  font-size: 20px;
+}
+#content3-3m .mbr-section-title,
+#content3-3m .mbr-section-subtitle {
+  text-align: center;
+}
+#animated-bg1-3o .display-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+#animated-bg1-3o H1 {
+  font-size: 48px;
+}
+#team1-2j .title3 {
+  color: #000000;
+}
+#team1-2j .text3 {
+  color: #ffffff;
+}
+#team1-2j .title2 {
+  color: #ffffff;
+}
+#team1-2j .text2 {
+  color: #ffffff;
+}
+#team1-2j .text1 {
+  color: #ffffff;
+}
+#team1-2j .title1 {
+  color: #ffffff;
+}
+#features1-2k .mbr-section-title {
+  font-weight: 700;
+  font-size: 60px;
+}
+#features1-2k .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features1-2l .mbr-section-title {
+  font-weight: 700;
+}
+#features1-2l .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features4-2v .mbr-section-title {
+  font-weight: 700;
+  font-size: 60px;
+}
+#features4-2v .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features4-2v .mbr-section-text {
+  text-align: left;
 }
