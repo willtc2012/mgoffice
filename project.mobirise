@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#e67e22",
-        "buttonsColor": "#000000",
+        "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
         "infoColor": "#ffffff",
@@ -26,13 +26,14 @@
         "#e188b1",
         "#c69393",
         "#f1cf09",
-        "#dec325"
+        "#dec325",
+        "#e76658"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 67,
+    "uniqCompNum": 80,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -63,8 +64,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -82,13 +83,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d62c1a"
+              "background": "#e13d2b"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e53f2e!important"
+              "background": "#e55a4b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#e74c3c"
+              "background": "#e76658"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -107,21 +108,21 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#e74c3c",
+            "bgColor": "#e76658",
             "fontSize": "0.8",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982002012\" target=\"_blank\"><p>WRITING</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981995012\" target=\"_blank\"><p>ADHENSIV</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981994012\" target=\"_blank\">DESKTOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982001012\" target=\"_blank\">SCHOOL &amp; ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981996012\" target=\"_blank\">CONFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982003012\" target=\"_blank\">FILE FOLDERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/pages/aboutus\" target=\"_blank\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/pages/shipping\" target=\"_blank\">SHIPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/pages/returns\" target=\"_blank\">RETURNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://contact.ebay.com.au/ws/eBayISAPI.dll?FindAnswers&amp;requested=mg-office\" target=\"_blank\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982002012\" target=\"_blank\"><p>WRITING</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981995012\" target=\"_blank\"><p>ADHENSIV</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981994012\" target=\"_blank\">DESKTOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982001012\" target=\"_blank\">SCHOOL &amp; ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981996012\" target=\"_blank\">CONFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982003012\" target=\"_blank\">FILE FOLDERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-p\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-25\">SHIPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-25\">RETURNS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://contact.ebay.com.au/ws/eBayISAPI.dll?FindAnswers&amp;requested=mg-office\" target=\"_blank\">message</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://tawk.to/chat/5c2e2d7e7a79fc1bddf3251b/default\" target=\"_blank\">live chat</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -255,7 +256,7 @@
               "font-weight": "700",
               "letter-spacing": ".5vw",
               "text-transform": "uppercase",
-              "font-size": "80px"
+              "font-size": "60px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
@@ -499,7 +500,7 @@
           "_styles": {
             ".mbr-section-title": {
               "font-weight": "700",
-              "font-size": "80px"
+              "font-size": "60px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
@@ -514,31 +515,30 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "6",
-            "bgImageRadio": true,
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/500007053-2000x1333.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2c3e50",
+            "bgColorRadio": true,
+            "bgColor": "#e67e22",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#e67e22",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.9"
           },
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wholesale-lifemaster-m-g-stationery-multicolour-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/catetu-8-543x543.jpg",
               "class": "features-img",
               "width": 600,
-              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982002012",
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981996012",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -552,13 +552,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/59f19389n449c9192-600x536.jpg",
+              "src": "@PROJECT_PATH@/assets/images/catetu-3-600x600.jpg",
               "class": "features-img",
               "width": 600,
-              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981995012",
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982003012",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -572,13 +571,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/58db76a7n4b057185.jpgq70-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/catetu-9-600x600.jpg",
               "class": "features-img",
               "width": 600,
-              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981994012",
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982000012",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -592,13 +590,12 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3f17bd25168ee1b6-600x949.jpg",
+              "src": "@PROJECT_PATH@/assets/images/catetu-4-600x600.jpg",
               "class": "features-img",
               "width": 600,
-              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982001012",
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981999012",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -632,7 +629,7 @@
           "media6": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/58db76d1ncb7378d1.jpgq70-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/58db76d1ncb7378d1.jpg!q70-600x400.jpg",
               "class": "features-img",
               "width": 600,
               "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982003012",
@@ -679,134 +676,191 @@
             "主题"
           ],
           "_name": "features1",
-          "_anchor": "features1-5"
+          "_anchor": "features1-1w"
         },
         {
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "alt": "",
-                "title": "",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            }
           },
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "ALL",
+          "_params": {
+            "showTitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/500007053-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e67e22",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#e67e22",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/catetu-8-543x543.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981996012",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/catetu-3-600x600.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982003012",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/catetu-9-600x600.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982000012",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/catetu-4-600x600.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981999012",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5847ac2en50ab7138-546x546.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27981996012",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/58db76d1ncb7378d1.jpg!q70-600x400.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "http://www.ebaystores.com.au/mg-office/?_fsub=27982003012",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "Our Categories",
+          "title1": "Bootstrap 4",
+          "subtitle1": "<a href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981996012\" target=\"_blank\" style=\"font-style: normal;\" class=\"text-info\">&nbsp;CONFERENCE ACCESSORISE</a>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "<a href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982003012\" target=\"_blank\" class=\"text-info\" style=\"font-style: normal;\">FILE STORAGE</a>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "<a href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982000012\" target=\"_blank\" class=\"text-info\" style=\"font-style: normal;\">Paper Products</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "<a href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981999012\" target=\"_blank\" class=\"text-info\" style=\"font-style: normal;\">Office and House</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "<a href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981996012\" target=\"_blank\" class=\"text-info\" style=\"font-style: normal;\">&nbsp;Conference Accessorise</a>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "<a href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982003012\" target=\"_blank\" class=\"text-info\" style=\"font-style: normal;\">File Folder Products</a>",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "主题"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1q"
+          "_name": "features1",
+          "_anchor": "features1-1x"
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            },
-            "H1": {
-              "font-size": "80px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -838,7 +892,355 @@
             "主题"
           ],
           "_name": "animated-bg1",
-          "_anchor": "animated-bg1-1g"
+          "_anchor": "animated-bg1-1g",
+          "_customCSS": ".display-1 {\n  font-weight: 700;\n  text-transform: uppercase;\n  margin-top: 40px;\n    \n}\nH1 {\n  font-size: 48px;\n    \n}\n",
+          "_customHTML": "<section class=\"mbr-section animated-bg1 tab-content\" data-rv-view=\"55\" style=\"background-color: rgb(67, 60, 94); padding-top: 150px; padding-bottom: 100px;\">\n\n    \n    <div class=\"bgText\">\n        <div class=\"wrapper-absolute\">\n            <p class=\"bgTextP\" style=\"color: rgb(185, 142, 177); font-size: 250px; font-family: Montserrat;\">M&amp;G OFFICE STATIONERY ARTS</p>   \n        </div>     \n    </div>\n            <div class=\"container-fluid\">\n                <div class=\"row\">\n                    <div id=\"title\">\n                        <div class=\"span-title\">\n                            <h1 class=\"mbr-section-title display-1 text-center pad-r mbr-editable-content\" code-editable-id=\"95\">Keep your office running smoothly with our wide variety of office essentials</h1>\n                            <span class=\"mbr-section-title display-2\">\n                            </span>\n                        </div>\n                        <div class=\"mbr-section-text lead text-center\">\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"96\">JUST SIMPLY CLICK THE FOLLOWING BUTTON TO DISCUESS THE SPECIAL DISCOUNT FOR BUSINESS CUSTOMERS.&nbsp;</p>\n                         </div>\n\n                        <div class=\"mbr-section-btn text-center\"><a class=\"btn mbr-editable-button btn-secondary\" href=\"http://contact.ebay.com.au/ws/eBayISAPI.dll?FindAnswers&amp;requested=mg-office\" code-editable-id=\"97\" target=\"_blank\">ebay message</a> <a class=\"btn btn-black mbr-editable-button\" href=\"mailto:sales@mgoffice.com.au\" code-editable-id=\"98\">email us</a><a class=\"btn btn-black mbr-editable-button\" href=\"tel:+61-03-98984888\" code-editable-id=\"99\">live chat now</a><a class=\"btn btn-black mbr-editable-button\" href=\"tel:+61-03-98984888\" code-editable-id=\"100\">cALL us</a></div>\n\n                    </div>\n                </div> \n            </div> \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".galleryItem h4:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li.active": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:before": {
+              "background": "@primaryColor"
+            },
+            ".min-toggle:hover, .max-toggle:hover": {
+              "background-color": "@primaryColor"
+            },
+            ".shop-title": {
+              "font-family": "@titleFont"
+            },
+            ".categories-titles .mbr-gallery-filter ul li": {
+              "font-family": "@titleFont"
+            },
+            ".max-input": {
+              "font-family": "@titleFont"
+            },
+            ".min-input": {
+              "font-family": "@titleFont"
+            },
+            ".item-title": {
+              "font-family": "@titleFont"
+            },
+            ".card-description": {
+              "font-family": "@textFont"
+            },
+            ".shop-item-price": {
+              "font-family": "@subtitleFont"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSidebar": false,
+            "showSortButtons": false,
+            "showBestSellers": false,
+            "priceRange": false,
+            "filter": false,
+            "showStars": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgColor": "#f5f5f5",
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/shop1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop1.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
+                "stars": "@PROJECT_PATH@/assets/images/4.png",
+                "bestSeller": true,
+                "itemTitle": "Flying Cowboy Hat",
+                "itemSubtitle": "could be your best friend",
+                "itemDescription": "Beware! It can fly away. We make no guarantees.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>367DDF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$36.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "itemTitle": "Fast Carbs",
+                "itemSubtitle": "your energy dose",
+                "itemDescription": "There are contraindications.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34567F5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$25.50",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop2.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/2.png",
+                "stars": "@PROJECT_PATH@/assets/images/2.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Bicycle",
+                "itemSubtitle": "for freedom",
+                "itemDescription": "Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3476DF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$60.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Cap of invisibility",
+                "itemSubtitle": "provided by magicians",
+                "itemDescription": "You should believe it works, otherwise there is no magic!<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3478DF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$78.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/5.png",
+                "stars": "@PROJECT_PATH@/assets/images/5.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": true,
+                "itemTitle": "Invisible Hat",
+                "itemSubtitle": "seen/not seen on photo",
+                "itemDescription": "Has no weight! Try not to lose it.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34GFDF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$89.90",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop5.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "itemTitle": "Shoes",
+                "itemSubtitle": "made for walking",
+                "itemDescription": "Casual shoes (contact us for sizing)<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>385DDF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$9.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop6.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/1.png",
+                "stars": "@PROJECT_PATH@/assets/images/1.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Backpack",
+                "itemSubtitle": "keeps your hands free",
+                "itemDescription": "Seen on photo. Check our gallery for more photos.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>340DDF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$29.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop7.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Fun garlands",
+                "itemSubtitle": "to make your life happier",
+                "itemDescription": "Hand-made! So they may differ.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34556F5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$3.50",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop8.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
+                "stars": "@PROJECT_PATH@/assets/images/4.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/shop1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop1.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
+                "stars": "@PROJECT_PATH@/assets/images/4.png",
+                "bestSeller": true,
+                "itemTitle": "Flying Cowboy Hat",
+                "itemSubtitle": "could be your best friend",
+                "itemDescription": "Beware! It can fly away. We make no guarantees.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>367DDF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$36.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "itemTitle": "Fast Carbs",
+                "itemSubtitle": "your energy dose",
+                "itemDescription": "There are contraindications.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34567F5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$25.50",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop2.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/2.png",
+                "stars": "@PROJECT_PATH@/assets/images/2.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Bicycle",
+                "itemSubtitle": "for freedom",
+                "itemDescription": "Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3476DF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$60.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
+                "stars": "@PROJECT_PATH@/assets/images/3.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Cap of invisibility",
+                "itemSubtitle": "provided by magicians",
+                "itemDescription": "You should believe it works, otherwise there is no magic!<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3478DF5p</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$78.00",
+                "onsale": "SALE 50% OFF",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
+                "image": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "starsImg": "@PROJECT_PATH@/assets/images/5.png",
+                "stars": "@PROJECT_PATH@/assets/images/5.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "title": "Shop",
+          "filter_by_pu": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Price: low to high</a>",
+          "filter_by_pd": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Price: high to low</a>",
+          "filter_by_d": "<a data-app-btn=\"true\" class=\"btn btn-primary\">Default sorting</a>",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary showAll\">Show all</a>",
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "allItem": "All",
+          "sidebar1": "Best Sellers",
+          "sidebar2": "Filter by price",
+          "sidebar3": "Product Categories",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "shop1",
+          "_anchor": "shop1-27"
+        },
+        {
+          "_params": {
+            "token": "9948532603.727bfe1.ff7e6aaac1674ad4b8a00517ae49a8ba",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "5",
+            "rows": "2",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": "8",
+            "spacing": "1",
+            "fullWidth": true,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/500301690-2000x1333.jpg",
+            "overlay": true,
+            "overlayColor": "#eeeeee",
+            "overlayOpacity": 0.6
+          },
+          "title": "FOLLOW US ON Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "扩展"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-14",
+          "_styles": {
+            ".inst__title": {
+              "font-size": "60px",
+              "color": "#e188b1",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -870,124 +1272,77 @@
             "DIV": {
               "color": "#ffffff",
               "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "token": "9948532603.727bfe1.ff7e6aaac1674ad4b8a00517ae49a8ba",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "8",
-            "rows": "3",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": "8",
-            "spacing": "1",
-            "fullWidth": true,
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColorRadio": true,
-            "bgColor": "#eeeeee",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/500301690-2000x1333.jpg",
-            "overlay": true,
-            "overlayColor": "#eeeeee",
-            "overlayOpacity": 0.6
-          },
-          "title": "OUR Instagram",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "扩展"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-14",
-          "_styles": {
-            ".inst__title": {
-              "font-size": "80px",
-              "color": "#e188b1",
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "paddingTop": 1,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {},
+            ".mbr-section-text": {
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c40f",
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
           },
-          "title": "Feature Products",
-          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "person1": "Jim Morrison",
-          "person2": "Eva Habermann",
-          "person3": "Barry Bostwick",
-          "person4": "Anna Cameron",
-          "subtitle1": "DEVELOPER",
-          "subtitle2": "DESIGNER",
-          "subtitle3": "DESIGNER",
-          "subtitle4": "PHOTOGRAPHER",
-          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
-          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
-          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
-          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
-              "class": "features-img",
-              "width": 600
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "CONTACT US",
+          "subtitle": "Your feedback is highly appreciated !",
+          "text": "Can we help you with something? <br>Or would you like to leave some feedback? <br>Simply fill out of the forms below. We'd love to hear from you!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "sales@mgoffice.com.au",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
           "alias": "colorm/components",
           "_tags": [
             "主题"
           ],
-          "_name": "team2",
-          "_anchor": "team2-1u"
+          "_name": "form1",
+          "_anchor": "form1-1z"
         },
         {
           "_styles": {
@@ -1002,17 +1357,18 @@
             "showText": true,
             "showButtons": true,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "6/10 Clarice Road,Boxhill South,VIC 3128",
+              "placeId": "EjQ2LCAxMCBDbGFyaWNlIFJkLCBCb3ggSGlsbCBTb3V0aCBWSUMgMzEyOCwgQXVzdHJhbGlhIh0aGwoWChQKEgkFJecgn0DWahEFoCnnK5r5mhIBNg",
+              "state": "ok",
+              "stateDetails": ""
             },
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1c40f",
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -1028,20 +1384,153 @@
               "class": ""
             }
           },
-          "title1": "6/10 Clarice Road,Boxhill South,VIC,3128",
-          "title2": "+61 03 9898 4848",
-          "title3": "sales@mgoffice.com.au",
+          "title1": "<a href=\"https://www.google.com/maps/place/6%2F10+Clarice+Rd,+Box+Hill+South+VIC+3128/@-37.8349981,145.1310061,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad6409f20e72505:0x9aae04360be91d6d!8m2!3d-37.8349981!4d145.1331948\" target=\"_blank\" class=\"text-black\">6/10 Clarice Road,Boxhill South,VIC,3128</a>",
+          "title2": "<a href=\"tel:0398984888\" class=\"text-black\">+61 03 9898 4848</a>",
+          "title3": "<a href=\"mailto:sales@mgoffice.com.au\">sales@mgoffice.com.au</a>",
           "cat1": "address",
           "cat2": "phone",
           "cat3": "email",
           "text": "Openning Hours: Mon-Fri 9am-5:30pm \n<br>Pick up option available in warehouse",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin\"></span></a> ",
           "alias": "colorm/components",
           "_tags": [
             "主题"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#51b9bc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#51b9bc",
+            "overlayOpacity": 0.9
+          },
+          "title": "Store Policy",
+          "title1": "Bootstrap 4",
+          "subtitle1": "SHIPPING",
+          "caption1": "We know you will be keen to receive your order as quickly as possible. Please make sure your eBay details are valid and the address and contact phone number are correct so we can contact you if there are any issues with your consignment. Our couriers require the recipients phone number for each delivery. \n<br>\n<br>We pack and ship every day with our first run leaving our warehouse daily at 11am via Fastway Couriers. Our Australia Post pick up leaves us by 2pm. All orders received by 9am should leave us same day - orders received after 9am will leave next day. \n<br>\n<br>We pack every order carefully to ensure it reaches you in good condition. \n<br>\n<br>Most consignments are tracked and tracking numbers will be emailed to you upon shipping. \n<br>\n<br>Express delivery options are available for faster delivery and these are at the top of this page on the \"Postage and Payments\" tab. \n<br>\n<br>Australian delivery normally takes 3-5 days from the shipping date depending upon your location. Please allow 7 - 10 business days for WA and remote locations. An ETA will be provided in your My eBay section of eBay with a guide also available in the \"Postage and Payments\" tab above. Please be aware this is \"estimate only\" \n<br>\n<br>Please note: Our courier service will not leave an item without a signature on delivery or an authority to leave buy the customer which negates Wiselink and the courier service of any theft or damage.",
+          "title2": "Responsive",
+          "subtitle2": "PAYMENT",
+          "caption2": "We accept payment by any of the following methods:\n<br>\n<br>PayPal\n<br>Bank Transfer\n<br>Cheque\n<br>Please pay as soon as possible after winning an auction, as that will allow us to post your item to you sooner!",
+          "title3": "Web Fonts",
+          "subtitle3": "RETURNS",
+          "caption3": "We understand that you might need to return something to us for a number of reasons. Please contact us via ebay Messages before sending anything back. \n<br>\n<br>Items must be returned to us via tracked postage or courier. Without a verifiable tracking number, you accept full risk of the item not reaching us. Returns not received by us will not qualify for replacement or refund. Our retuns / refund policy covers the following policies \n<br>\n<br>1. You changed your mind \n<br>\n<br>* We offer a 30 day return policy for change of mind. That means if you are not satisfied with your purchase, you are able to return it to us up to 30 days for your choice of exchange or refund, excluding original delivery costs. Please note for change of mind returns a 10% restocking fee will apply. \n<br>\n<br>* All returned items must be in brand new, unused condition, in their original shipped packaging, and include all parts and accessories. Where returned items are not received by us in brand new condition, we will return them to you once you pay us the cost of redelivery to do so. \n<br>\n<br>* Return shipping costs are non‐refundable cost for exchange shipping is at the buyers expense. \n<br>\n<br>2. The item arrived damaged or missing parts \n<br>\n<br>* As we sell only brand new items, all orders leave our warehouse in brand new undamaged condition. If your item arrives damaged or missing parts, we will gladly replace it for you and provide a reply paid address for shipping back to us at no cost. \n<br>\n<br>* All claims for damaged items must be made within 2 business days of receiving your order. It is important that you open your order as soon as you get it, and notify us immediately if there is any damage. \n<br>\n<br>* Please take photographs of any damage and send them to us via eBay Messages before sending the item back, as we need to report damage to our insurer, delivery courier and warehouse.Please do not destroy or dump any item before taking a photo and before we have authorised the replacement upon receiving the photographic damage. \n<br>\n<br>3. The item is faulty \n<br>\n<br>* Your purchase automatically comes with protections under Australian Consumer Law that cannot be excluded. All of our products are fully backed by manufacturer warranty. \n<br>\n<br>* Should your product be faulty, please contact us via eBay Messages so we can guide you through the correct process for having the fault rectified under the manufacturer warranty. \n<br>\n<br>Depending on the manufacturer’s warranty terms and requirements, we will either repair or replace it for you (or if stocks are exhausted, refund you) excluding original delivery costs.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary\">learn more</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "database",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-25"
         },
         {
           "_styles": {},
@@ -1078,7 +1567,7 @@
           "form": {
             "action": "sales@mgoffice.com.au",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for your subscription!"
             },
             "fields": {
               "name": {
@@ -1104,7 +1593,7 @@
             "主题"
           ],
           "_name": "footer4",
-          "_anchor": "footer4-1l"
+          "_anchor": "footer4-1o"
         }
       ]
     },
@@ -1175,21 +1664,21 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#e74c3c",
+            "bgColor": "#e76658",
             "fontSize": "0.8",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982002012\" target=\"_blank\"><p>WRITING</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981995012\" target=\"_blank\"><p>ADHENSIV</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981994012\" target=\"_blank\">DESKTOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982001012\" target=\"_blank\">SCHOOL &amp; ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981996012\" target=\"_blank\">CONFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982003012\" target=\"_blank\">FILE FOLDERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/pages/aboutus\" target=\"_blank\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/pages/shipping\" target=\"_blank\">SHIPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/pages/returns\" target=\"_blank\">RETURNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://contact.ebay.com.au/ws/eBayISAPI.dll?FindAnswers&amp;requested=mg-office\" target=\"_blank\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982002012\" target=\"_blank\"><p>WRITING</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981995012\" target=\"_blank\"><p>ADHENSIV</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981994012\" target=\"_blank\">DESKTOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982001012\" target=\"_blank\">SCHOOL &amp; ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27981996012\" target=\"_blank\">CONFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ebaystores.com.au/mg-office/?_fsub=27982003012\" target=\"_blank\">FILE FOLDERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-p\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-25\">SHIPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-25\">RETURNS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://contact.ebay.com.au/ws/eBayISAPI.dll?FindAnswers&amp;requested=mg-office\" target=\"_blank\">message</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://tawk.to/chat/5c2e2d7e7a79fc1bddf3251b/default\" target=\"_blank\">live chat</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1247,7 +1736,7 @@
           "form": {
             "action": "sales@mgoffice.com.au",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for your subscription!"
             },
             "fields": {
               "name": {

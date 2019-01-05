@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -87,7 +88,7 @@ textarea,
 .btn-primary {
   background-color: #e67e22;
   border-color: #e67e22;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -107,7 +108,7 @@ textarea,
 .btn-secondary {
   background-color: #9b59b6;
   border-color: #9b59b6;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
@@ -127,7 +128,7 @@ textarea,
 .btn-info {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -147,7 +148,7 @@ textarea,
 .btn-success {
   background-color: #2ecc71;
   border-color: #2ecc71;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -167,7 +168,7 @@ textarea,
 .btn-warning {
   background-color: #e67e22;
   border-color: #e67e22;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -187,7 +188,7 @@ textarea,
 .btn-danger {
   background-color: #e74c3c;
   border-color: #e74c3c;
-  color: #000000;
+  color: #ffffff;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -732,7 +733,7 @@ blockquote {
 #menu-6 .link,
 #menu-6 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-6 .link {
   font-size: 0.8rem;
@@ -755,19 +756,19 @@ blockquote {
 }
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-menu {
-  background: #d62c1a;
+  background: #e13d2b;
 }
 #menu-6 .nav-dropdown-sm .link:focus,
 #menu-6 .nav-dropdown-sm .link:hover,
 #menu-6 .nav-dropdown-sm .dropdown-item:focus,
 #menu-6 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e53f2e!important;
+  background: #e55a4b!important;
 }
 #menu-6 .navbar,
 #menu-6 .nav-dropdown-sm,
 #menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-6 .nav-dropdown-sm .dropdown-menu {
-  background: #e74c3c;
+  background: #e76658;
 }
 #menu-6 .bg-color.transparent .link {
   color: #ffffff;
@@ -803,7 +804,7 @@ blockquote {
   font-weight: 700;
   letter-spacing: .5vw;
   text-transform: uppercase;
-  font-size: 80px;
+  font-size: 60px;
 }
 #features16-n .mbr-section-subtitle {
   text-transform: uppercase;
@@ -828,11 +829,20 @@ blockquote {
 #team1-g .title1 {
   color: #ffffff;
 }
-#features1-5 .mbr-section-title {
+#features1-1w .mbr-section-title {
   font-weight: 700;
-  font-size: 80px;
+  font-size: 60px;
 }
-#features1-5 .mbr-section-subtitle {
+#features1-1w .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features1-1x .mbr-section-title {
+  font-weight: 700;
+  font-size: 60px;
+}
+#features1-1x .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
@@ -843,19 +853,83 @@ blockquote {
   margin-top: 40px;
 }
 #animated-bg1-1g H1 {
-  font-size: 80px;
+  font-size: 48px;
+}
+#shop1-27 .galleryItem h4:hover {
+  color: #e67e22;
+}
+#shop1-27 .mbr-gallery-filter ul li.active {
+  color: #e67e22;
+}
+#shop1-27 .mbr-gallery-filter ul li:hover {
+  color: #e67e22;
+}
+#shop1-27 .mbr-gallery-filter ul li:before {
+  background: #e67e22;
+}
+#shop1-27 .min-toggle:hover,
+#shop1-27 .max-toggle:hover {
+  background-color: #e67e22;
+}
+#shop1-27 .shop-title {
+  font-family: Arvo;
+}
+#shop1-27 .categories-titles .mbr-gallery-filter ul li {
+  font-family: Arvo;
+}
+#shop1-27 .max-input {
+  font-family: Arvo;
+}
+#shop1-27 .min-input {
+  font-family: Arvo;
+}
+#shop1-27 .item-title {
+  font-family: Arvo;
+}
+#shop1-27 .card-description {
+  font-family: Open Sans;
+}
+#shop1-27 .shop-item-price {
+  font-family: Montserrat;
+}
+#shop1-27 H3 {
+  text-align: left;
+}
+#instagram-feed-block-14 .inst__title {
+  font-size: 60px;
+  color: #e188b1;
+  text-align: center;
 }
 #content5-b DIV {
   color: #ffffff;
   text-align: center;
 }
-#instagram-feed-block-14 .inst__title {
-  font-size: 80px;
-  color: #e188b1;
-  text-align: center;
+#content5-b .mbr-section-title {
+  font-size: 60px;
+}
+#form1-1z .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-1z .form-control-label {
+  color: undefined;
+}
+#form1-1z .mbr-section-text {
+  font-size: 19px;
 }
 #contacts1-1t .mbr-section-text {
   font-size: 24px;
+}
+#features4-25 .mbr-section-title {
+  font-weight: 700;
+  font-size: 60px;
+}
+#features4-25 .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features4-25 .mbr-section-text {
+  text-align: left;
 }
 
 #menu-1n .hide-buttons .nav-btn {
