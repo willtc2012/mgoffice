@@ -1806,8 +1806,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#eeeeee"
           },
           "media": {
@@ -1834,8 +1834,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#eeeeee"
           },
           "media": {
@@ -1862,8 +1862,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#eeeeee"
           },
           "media": {
@@ -1890,8 +1890,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "4",
             "bgColor": "#eeeeee"
           },
           "media": {
