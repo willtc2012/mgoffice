@@ -737,11 +737,11 @@ blockquote {
   font-family: 'Oswald', sans-serif;
 }
 #menu-6 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-6 .link:hover,
 #menu-6 .link:focus {
