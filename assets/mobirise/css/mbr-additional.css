@@ -952,11 +952,11 @@ blockquote {
   font-family: 'Oswald', sans-serif;
 }
 #menu-2h .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-2h .dropdown-item,
 #menu-2h .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-2h .link:hover,
 #menu-2h .link:focus {
