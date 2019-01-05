@@ -722,6 +722,7 @@ blockquote {
 }
 #menu-6 .navbar-caption {
   color: #ffffff;
+  font-size: 24px;
 }
 #menu-6 .navbar-toggler {
   color: #ffffff;
@@ -838,11 +839,10 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
-#features1-1x .mbr-section-title {
+#features1-28 .mbr-section-title {
   font-weight: 700;
-  font-size: 60px;
 }
-#features1-1x .mbr-section-subtitle {
+#features1-28 .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
@@ -897,7 +897,7 @@ blockquote {
 }
 #instagram-feed-block-14 .inst__title {
   font-size: 60px;
-  color: #e188b1;
+  color: #333333;
   text-align: center;
 }
 #content5-b DIV {
@@ -937,6 +937,7 @@ blockquote {
 }
 #menu-1n .navbar-caption {
   color: #ffffff;
+  font-size: 24px;
 }
 #menu-1n .navbar-toggler {
   color: #ffffff;
@@ -948,7 +949,7 @@ blockquote {
 #menu-1n .link,
 #menu-1n .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-1n .link {
   font-size: 0.8rem;
@@ -971,19 +972,19 @@ blockquote {
 }
 #menu-1n .link[aria-expanded="true"],
 #menu-1n .dropdown-menu {
-  background: #d62c1a;
+  background: #e13d2b;
 }
 #menu-1n .nav-dropdown-sm .link:focus,
 #menu-1n .nav-dropdown-sm .link:hover,
 #menu-1n .nav-dropdown-sm .dropdown-item:focus,
 #menu-1n .nav-dropdown-sm .dropdown-item:hover {
-  background: #e53f2e!important;
+  background: #e55a4b!important;
 }
 #menu-1n .navbar,
 #menu-1n .nav-dropdown-sm,
 #menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1n .nav-dropdown-sm .dropdown-menu {
-  background: #e74c3c;
+  background: #e76658;
 }
 #menu-1n .bg-color.transparent .link {
   color: #ffffff;
